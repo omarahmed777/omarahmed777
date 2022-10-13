@@ -1,5 +1,5 @@
 ### Hey! 🎈
-I'm Omar, currently a 2nd year at University of Birmingham studying Computer Science w/ Year in Industry Bsc 
+I'm Omar, currently a 2nd year at University of Birmingham studying Computer Science w/ Year in Industry BSc 
 
 I'm not currently working on anything as being a full-time student makes up most of my time, but I am interested in working on a discord bot soon. Feel free to reach out with any ideas, but please bear with me if I take some time to reply.
 
