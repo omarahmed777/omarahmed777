@@ -5,7 +5,7 @@ I'm not currently working on anything as being a full-time student makes up most
 
 You can mainly reach me on discord @ Nerdy#9545, but please send a message first so I know you're not a bot 😄
 
-- Languages: Python, Java & Javascript, CSS & HTML, currently learning C and Haskell
+- Languages: Python, Java & Javascript, CSS & HTML, VisualBasic, currently learning C and Haskell
 <!--
 **omarahmed777/omarahmed777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
